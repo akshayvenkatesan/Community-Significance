@@ -76,7 +76,7 @@ Our feature engineering process involved developing several innovative metrics:
 
 - **Popularity Score**: Derived from the average ratings and the volume of reviews a business receives.
 
-![Figure 2.1: Heatmap for Distribution of Popularity Scores across NY](Images/NYC Popularity Score Heatmap.png)
+![Figure 2.1: Heatmap for Distribution of Popularity Scores across NY](Images/NYC_Popularity_Score_Heatmap.png)
 
 Figure 2.1: Heatmap for Distribution of Popularity Scores across NY
 
@@ -155,7 +155,7 @@ Table 4.2: Top Significant Places Outside NYC
 
 Our analysis, powered by TabNet’s closure probability predictions, identified a list of the top endangered places based on 2021 data. A recent follow-up on these predictions reveals a significant validation of our model’s accuracy. Notably, the majority (65%) of these places have indeed closed, underscoring the effectiveness of our approach in identifying at-risk establishments.
 
-![Figure 4.1: Significance Score Spread by Category](Images/Significance Score Boxplot.jpg)
+![Figure 4.1: Significance Score Spread by Category](Images/Significance_Score_Boxplot.jpg)
 
 Figure 4.1: Significance Score Spread by Category
 
@@ -189,7 +189,7 @@ Significance Score Spread by Category: The boxplot in Figure 4.1 illustrates the
 
 Endangerment by Category: The bar graph in Figure 4.2 provides a compelling visual representation of the varying degrees of endangerment across different business categories. Restaurants and eateries lead by a significant margin, indicating their vulnerability to closure, which may reflect changing social habits or economic pressures. Retail and shopping venues follow, suggesting a transition perhaps driven by the rise of e-commerce. Notably, categories such as bars and nightlife, and food markets and groceries also show a substantial number of closures, underscoring the broad impact of recent trends and challenges across sectors. Meanwhile, categories like educational institutions, religious and spiritual places, and public and government services report fewer closures, which may point to their foundational role in community stability. This visualization is critical for understanding which sectors are most at risk and may benefit from targeted interventions to preserve the local community’s cultural and economic landscape.
 
-![Figure 4.2: Closed Places by Category](Images/Closed Places by Category.jpg)
+![Figure 4.2: Closed Places by Category](Images/Closed_Places_by_Category.jpg)
 
 Figure 4.2: Closed Places by Category
 
